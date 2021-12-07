@@ -1,7 +1,7 @@
 # AAS-Reference-Models
 본 레파지토리에서는 개발된 AAS 레퍼런스 모델을 배포하기 위해 생성되었습니다.
 
-# 항목
+# List
 
 1. 6-Axis Robot Reference AAS
 - 다운로드: 
