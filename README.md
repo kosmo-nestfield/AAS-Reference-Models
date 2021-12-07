@@ -3,12 +3,10 @@
 
 # List
 1. 6-Axis Robot Reference AAS
- - 다운로드: 
+ - 다운로드: https://github.com/kosmo-nestfield/AAS-Reference-Models/releases/tag/untagged-e34b7aa72e5a306dd704
 
-2. AGV/AMR Reference AAS
- - 다운로드: 
-
-3. CNC Machine Tool Reference AAS
+2. CNC Machine Tool Reference AAS
  - 다운로드: https://github.com/kosmo-nestfield/AAS-Reference-Models/releases/tag/untagged-6d6d73c9e5c9c5ee5c42
 
-
+3. AGV/AMR Reference AAS
+ - 다운로드: 
