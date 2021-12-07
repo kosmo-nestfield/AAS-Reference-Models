@@ -4,11 +4,11 @@
 >아래 항목의 링크를 클릭하여 다운로드 받으시기 바랍니다.
 
 # List
->**1. 6-Axis Robot Reference AAS**
+>**1. 6-Axis Robot AAS Template**
 > - https://github.com/kosmo-nestfield/AAS-Reference-Models/releases/tag/v1.0.0_6Axis_Robot_AAS
 >
->**2. CNC Machine Tool Reference AAS**
+>**2. CNC Machine Tool AAS Template**
 > - https://github.com/kosmo-nestfield/AAS-Reference-Models/releases/tag/v1.0.0_CNC_Machine_Tool_AAS
 >
->**3. AGV/AMR Reference AAS**
+>**3. AGV/AMR AAS Template**
 > - https://github.com/kosmo-nestfield/AAS-Reference-Models/releases/tag/v1.0.0_AGV-AMR_AAS
