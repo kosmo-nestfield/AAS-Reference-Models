@@ -9,4 +9,4 @@
  - 다운로드: https://github.com/kosmo-nestfield/AAS-Reference-Models/releases/tag/untagged-6d6d73c9e5c9c5ee5c42
 
 **3. AGV/AMR Reference AAS**
- - 다운로드: 
+ - 다운로드: https://github.com/kosmo-nestfield/AAS-Reference-Models/releases/tag/v1.0.0_AGV-AMR_AAS
