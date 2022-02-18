@@ -12,3 +12,8 @@
 >
 >**3. AGV/AMR AAS Template**
 > - https://github.com/kosmo-nestfield/AAS-Reference-Models/releases/tag/v1.0.0_AGV-AMR_AAS
+
+>**4. Injection Molding Machine AAS Template**
+> - https://github.com/kosmo-nestfield/AAS-Reference-Models/releases/tag/v1.0.0_Injection_Molding_Machine_AAS
+
+
